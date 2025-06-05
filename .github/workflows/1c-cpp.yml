@@ -1,5 +1,7 @@
-name: C/C++ CI
+name: C/C++ CI for master branch
 
+# This workflow is specifically for the master branch.
+# It runs on push and pull request events targeting the master branch.
 on:
   push:
     branches: [ "master" ]
