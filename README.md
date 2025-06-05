@@ -11,7 +11,7 @@ This repository contains the original version 0.1 release of Bitcoin, the first 
 - **Repository Name:** Bitcoin-v0.1
 - **Description:** Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto
 - **Language:** C++
-- **License:** MIT License
+- **License:** GNU General Public License Version 2
 - **Default Branch:** master
 - **Forked From:** [0xMagnuz/Bitcoin-v0.1](https://github.com/0xMagnuz/Bitcoin-v0.1)
 - **Source Archive:** [benjiqq/bitcoinArchive](https://github.com/benjiqq/bitcoinArchive)
