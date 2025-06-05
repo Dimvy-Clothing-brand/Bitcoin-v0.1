@@ -1,0 +1,1 @@
+./config.cmd --url https://github.com/Dimvy-Clothing-brand/Bitcoin-v0.1 --token AMVOYBEFXR43RO33IXBTSADIIGBZA
